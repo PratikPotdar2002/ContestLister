@@ -1,0 +1,30 @@
+{
+    "hackathons": [
+        {
+            "id": 45,
+            "name": "The Logosphere Hackathon #1",
+            "platform": "HackerEarth",
+            "url": "https://logosphere.hackerearth.com/de/",
+            "duration": 4233240,
+            "startTime": "2023-08-28 12:35:00+05:30",
+            "endTime": "2023-10-16 12:29:00+05:30",
+            "in24Hours": false,
+            "onGoing": true,
+            "createdAt": "2023-10-28 16:09:02.221+05:30",
+            "updatedAt": "2023-10-28 16:09:02.221+05:30"
+        },
+        {
+            "id": 46,
+            "name": "CharmHealth CodeRx Hackathon",
+            "platform": "HackerEarth",
+            "url": "https://charmhealth.hackerearth.com/de/",
+            "duration": 6364500,
+            "startTime": "2023-09-13 21:30:00+05:30",
+            "endTime": "2023-11-26 13:25:00+05:30",
+            "in24Hours": false,
+            "onGoing": true,
+            "createdAt": "2023-10-28 16:09:02.221+05:30",
+            "updatedAt": "2023-10-28 16:09:02.221+05:30"
+        }
+    ]
+}
